@@ -1,3 +1,3 @@
-module common
+module Common
 
 go 1.18

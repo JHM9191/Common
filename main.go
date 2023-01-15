@@ -2,6 +2,6 @@ package Common
 
 import "fmt"
 
-func getCommon() {
+func GetCommon() {
 	fmt.Println("Get Common Features")
 }
